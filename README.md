@@ -33,7 +33,7 @@ Open the `Part1.md` file located in the `assessment-part-1` folder to complete t
 
 ## Part Two
 
-The questions for Part Two are outlined in the `index.js` in this repository's base directory. Work in the `index.js` and run `npm test` when you complete each problem.
+The questions for Part Two are outlined in the `part-2.js` in this repository's base directory. Work in the `part-2.js` and run `npm test` when you complete each problem.
 
 There are 6 questions that you must answer in order for all of the tests to pass.
 
