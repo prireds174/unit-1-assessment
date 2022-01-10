@@ -25,7 +25,7 @@ This assessment is used to gauge where you stand with basic JavaScript, HTML, an
 ### Gold: 
 - You completed all MVP and bonus requirements for Part One 
 - You have completed 6 of the 6 coding challenges in Part Two
-- All automated pass
+- All automated tests pass
 
 ## Part One
 
