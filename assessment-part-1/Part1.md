@@ -37,7 +37,7 @@ Use the screenshots below as your "wireframes". The styling does not have to be 
 - Briefly read through the rest of this assignment to better understand what is required before starting to code.
 
 ## Step 2 - Set Up the App
-- You'll be working in the `assessment-part-2` folder in the `script.js`, `styles.css`, and `index.html` files in this part
+- You'll be working in the `assessment-part-1` folder in the `script.js`, `styles.css`, and `index.html` files in this part
 - Add an HTML boilerplate to get started (remember `! + tab` can help with this)
 - `<link>` your `styles.css` stylesheet in the `<head>` tag of your `index.html`
 - Connect your `script.js` with a `<script>` tag at the bottom of the `<body>` tag in your `index.html`

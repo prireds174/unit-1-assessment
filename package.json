@@ -1,7 +1,7 @@
 {
   "name": "unit-1-assessment",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "part-2.js",
   "license": "MIT",
   "scripts": {
     "test": "jest"
